@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bertoldoklinger
+- 👋 Hi, I’m @bertoldoklinger.
 - 👀 I’m interested in frontend experience and jobs.
 - 🌱 I’m currently learning html,css,javascript,git.
-- 💞️ I’m looking to collaborate on any frontend job
+- 💞️ I’m looking to collaborate on any frontend job.
 - 📫 How to reach me > dm me on instagram @bertoldoklinger
 
 <!---
