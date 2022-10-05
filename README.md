@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bertoldoklinger.
 - 👀 I’m interested in frontend experience and jobs.
-- 🌱 I’m currently learning html,css,javascript,git.
+- 🌱 I’m currently learning React,AWS Cloud Services.
 - 💞️ I’m looking to collaborate on any frontend job.
 - 📫 How to reach me > dm me on instagram @bertoldoklinger
 
