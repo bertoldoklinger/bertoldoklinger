@@ -10,6 +10,6 @@
 - React
 - and the broader JS ecosystem
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=bertoldoklinger&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/bertoldoklinger/github-readme-stats)
+[![Readme Card](https://github-stats-extended.vercel.app/api?username=bertoldoklinger&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/bertoldoklinger/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertoldoklinger&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bertoldoklinger&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
